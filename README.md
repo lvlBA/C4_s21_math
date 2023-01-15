@@ -1,47 +1,9 @@
 # s21_math  
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/6nduWymT5Stz9N9D8)
 
 Implementation of your own version of the math.h library.  
 
 The russian version of the task can be found in the repository.
-
-## Contents
-0. [Preamble](#preamble)
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementing-the-mathh-library-functions)
-
-
-## Preamble  
-
-![s21_math](misc/eng/s21_math.png)
-
-Planet Earth, USA, New York State, 1956.
-
-I love English breakfast: crispy slice of bread and beans, juicy sausages with scrambled eggs, and The New York Times. It would have been an ordinary spring morning if I hadn't stumbled upon a little column in the newspaper written by a Stanford University professor, that caught my attention. William Shockley, who is famous in small circles of the physical science community, the inventor of the transistor, had posted a job opening in a laboratory for mass production of the latest transistors and dinistors.
-Without thinking long, I called the number mentioned in the paper:
-
-*- Good evening, William, I'm calling about the vacancy you left in the newspaper, do you have a minute?*
-
-*-- Yes, of course, I'm very glad I didn't waste my money for nothing and at least someone called! I must point out right away all the specifics of our future collaboration: production will take place at our site in Mountain View, near Palo Alto, a place with a rural lifestyle, but I hope it’s not a problem, Mr...?*
-
-*- Last, Mr. J. Last from MIT. I am aware of that, and it does not bother me a bit, so when can I come for my interview?*
-
-*-- Good, very good! I don't have time to be constantly in touch and interview people from other cities right now, so send me to the address left in the paper the result of the work, that I'll give you now...*
-
-*- I'm all ears...*
-
-*-- Our case requires powerful mathematical tools that can be described in machine programming language - all sorts of mathematical operations and functions: trigonometric, logarithmic, exponential, and others of your choice. It doesn't matter how, but you have to do it...* \
-*Now if you’ll excuse me, I have to say goodbye, I have a second line, I'm waiting for your answer! Thank you!*
-
-*- Have a nice day!*
-
-Well, I have to do it, I feel in my bones that a transistor revolution in mathematical computing is coming and I have to be on the front line!
 
 ## Chapter I  
 
@@ -98,5 +60,3 @@ The functions of the math.h library must be implemented (only those directly des
 - You must follow the logic of the standard library (in terms of checks, working with memory and behavior in emergency situations - tests will help you with that)
 - The total verifiable accuracy is 16 significant digits
 - Verifiable accuracy of the fractional part is up to 6 decimal places.
-
-💡 [Tap here](https://forms.yandex.ru/u/6357d9355d2a06307fd4c1f6/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
